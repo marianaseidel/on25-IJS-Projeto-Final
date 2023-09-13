@@ -1,0 +1,23 @@
+{
+  "name": "on25-ijs-projeto-final",
+  "version": "1.0.0",
+  "description": "O Projeto foi desenvolvido no curso de Imersão em Javascript oferecido pela {Reprograma}. É uma plataforma da TETO-PE que busca permitir o cadastro de novos voluntários, de novas comunidades interessadas em participar do projeto e da divulgação e cadastro de novos eventos.",
+  "main": "Community.js",
+  "dependencies": {
+    "jest": "^29.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianaseidel/on25-IJS-Projeto-Final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianaseidel/on25-IJS-Projeto-Final/issues"
+  },
+  "homepage": "https://github.com/marianaseidel/on25-IJS-Projeto-Final#readme"
+}
