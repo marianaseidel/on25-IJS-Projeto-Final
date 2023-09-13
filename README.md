@@ -1,4 +1,4 @@
-## Plataforma de cadastro de voluntários, comunidades e eventos da TETO - PE. 
+# Plataforma de cadastro de voluntários, comunidades e eventos da TETO - PE. 
  
 
 Projeto Final do Curso de Imersão JavaScript - {Reprograma}
