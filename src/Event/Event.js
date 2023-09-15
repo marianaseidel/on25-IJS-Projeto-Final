@@ -1,5 +1,4 @@
 class Event {
-    leaderEvent;
     type;
     #events = ['eco',
         'construção',
@@ -14,7 +13,6 @@ class Event {
         this.date = date;
         this.qtdSubscribers = 0;
         this.leaderEvent = leaderEvent;
-
         this.status = 'Confirmado';
 
         Event.allEvents.push({ event: this.name });

@@ -1,6 +1,4 @@
 class Community {
-    qtdResidents = 0;
-    communityLeader;
     needs = [];
     events = [];
 
